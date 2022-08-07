@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ble55-gh-pages/static/css/main.0f419ca3.css",
+    "main.js": "/ble55-gh-pages/static/js/main.bedf80dd.js",
+    "static/js/787.65cc26fc.chunk.js": "/ble55-gh-pages/static/js/787.65cc26fc.chunk.js",
+    "static/media/image2.jpg": "/ble55-gh-pages/static/media/image2.5dc5ce9559ac4f28170e.jpg",
+    "static/media/image1.jpg": "/ble55-gh-pages/static/media/image1.d6e46cc6b5c48e5c4ce4.jpg",
+    "static/media/logo.svg": "/ble55-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ble55-gh-pages/index.html",
+    "main.0f419ca3.css.map": "/ble55-gh-pages/static/css/main.0f419ca3.css.map",
+    "main.bedf80dd.js.map": "/ble55-gh-pages/static/js/main.bedf80dd.js.map",
+    "787.65cc26fc.chunk.js.map": "/ble55-gh-pages/static/js/787.65cc26fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f419ca3.css",
+    "static/js/main.bedf80dd.js"
+  ]
+}
